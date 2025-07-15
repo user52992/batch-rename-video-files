@@ -1,0 +1,17 @@
+@import '../../node_modules/@douyinfe/semi-theme-default/scss/variables.scss';
+
+.pageWrapper {
+    padding: $spacing-base;
+}
+
+.page {
+    width: 100%;
+}
+
+.upload {
+    width: 100%;
+
+    & :global(.semi-upload-file-card-close) {
+        visibility: hidden;
+    }
+}
