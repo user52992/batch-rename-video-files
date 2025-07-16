@@ -12,4 +12,10 @@ export default defineConfig({
 		}),
 		statePlugin(),
 	],
+	server: {
+		baseUrl: '/batch-rename-video-files',
+	},
+	output: {
+		assetPrefix: '/batch-rename-video-files',
+	},
 });
