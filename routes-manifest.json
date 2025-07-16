@@ -1,0 +1,59 @@
+{
+  "routeAssets": {
+    "exe-rename/page": {
+      "chunkIds": [
+        "263"
+      ],
+      "assets": [
+        "/batch-rename-video-files/static/js/async/exe-rename/page.821c71f5.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "main": {
+      "chunkIds": [
+        "242",
+        "361",
+        "126",
+        "308",
+        "118",
+        "327",
+        "909"
+      ],
+      "assets": [
+        "/batch-rename-video-files/static/js/lib-react.d04872cf.js",
+        "/batch-rename-video-files/static/js/lib-polyfill.e40f7f1f.js",
+        "/batch-rename-video-files/static/css/lib-semi.48513474.css",
+        "/batch-rename-video-files/static/js/lib-semi.6e95c7ab.js",
+        "/batch-rename-video-files/static/js/lib-router.3aa76c53.js",
+        "/batch-rename-video-files/static/js/327.cc2ac293.js",
+        "/batch-rename-video-files/static/js/main.2f0fddf6.js",
+        "/batch-rename-video-files/static/css/main.5651cd8d.css"
+      ],
+      "referenceCssAssets": [
+        "/batch-rename-video-files/static/css/lib-semi.48513474.css",
+        "/batch-rename-video-files/static/css/main.5651cd8d.css"
+      ]
+    },
+    "page": {
+      "chunkIds": [
+        "484"
+      ],
+      "assets": [
+        "/batch-rename-video-files/static/js/async/page.e80d85bb.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "rename/page": {
+      "chunkIds": [
+        "378"
+      ],
+      "assets": [
+        "/batch-rename-video-files/static/js/async/rename/page.5fce42fb.js",
+        "/batch-rename-video-files/static/css/async/rename/page.79aaac42.css"
+      ],
+      "referenceCssAssets": [
+        "/batch-rename-video-files/static/css/async/rename/page.79aaac42.css"
+      ]
+    }
+  }
+}
