@@ -1,37 +1,12 @@
-# Modern.js App
+# 批量重命名视频文件
 
-## Setup
+🛠️ 功能特点：
 
-Install the dependencies:
+1. 纯前端实现
+2. 建议配合语音输入法使用
 
-```bash
-pnpm install
-```
 
-## Get Started
 
-Start the dev server:
+💡 使用场景：
 
-```bash
-pnpm dev
-```
-
-Enable optional features or add a new entry:
-
-```bash
-pnpm new
-```
-
-Build the app for production:
-
-```bash
-pnpm build
-```
-
-Preview the production build locally:
-
-```bash
-pnpm serve
-```
-
-For more information, see the [Modern.js documentation](https://modernjs.dev/en).
+1. 当视频的文件名可以通过观看视频的前几帧得到时（如文档的录屏），可以使用此工具成倍地提高文件重命名的效率
